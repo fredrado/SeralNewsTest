@@ -1,0 +1,14 @@
+export var lang = "es";
+export var idUsuario = "DEMO";
+export var Usuario = "Daniel Pallas Hernandez";
+export var idCocina = 0;
+export var idCliente = 0;
+export var Cocina = "";
+export var Cliente = "";
+export var DiaSel = 0;
+export var MesSel = 0;
+export var AnioSel = 0;
+export var MenuSel = "001";
+export var NombreMenuSel = "BASAL";
+export var IngestaSel = 0;
+export var MenuSource = "http://www.seral-service.com/Tripticos/Español/AS2.pdf"
