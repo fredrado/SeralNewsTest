@@ -1,0 +1,2 @@
+# SeralNewsTest
+Pruebas React native
